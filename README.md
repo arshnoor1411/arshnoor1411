@@ -4,9 +4,9 @@ I am Arshnoor Singh. I am Software Engineer at Gluelabs working as a Full Stack 
 
 •	I’m currently working as an Software Engineer @GlueLabs
 
-•	Full Stack Developer at @FIFOim
+•	Full Stack Developer @FIFOim
 
-•	Back End Developer at @Glueis
+•	Back End Developer @Glueis
 
 •	How to reach me arshnoorsingh1411@gmail.com
 
