@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshnoor1411" alt="arshnoor1411" /></a> </p>
 
-- 💬 Ask me about **NodeJS, NestJS, SequelizeORM, TypeORM, Kafka, PostgresSQL**
+- 💬 Ask me about **NodeJS, NestJS, SequelizeORM, TypeORM, Kafka, PostgresSQL, RestAPIs, GraphQL**
 
 - 📫 How to reach me **arshnoorsingh1411@gmail.com**
 
