@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arshnoor Singh</h1>
-<h3 align="center">A passionate backend developer, loves to explore more on server-side technologies with contributions to frontend(ReactJS) as well</h3>
+<h3 align="center">A passionate software developer, loves to explore more on server-side technologies with contributions to frontend(ReactJS) as well</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshnoor1411&label=Profile%20views&color=0e75b6&style=flat" alt="arshnoor1411" /> </p>
 
